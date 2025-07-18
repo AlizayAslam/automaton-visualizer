@@ -1,34 +1,4 @@
-# Automaton Visualizer
 
-A Python-based GUI application for creating, visualizing, and analyzing Deterministic Finite Automata (DFA) and Nondeterministic Finite Automata (NFA). Built with Tkinter, `automata-lib`, and Graphviz, this tool allows users to design automata, generate visual diagrams, test input strings, convert DFAs to NFAs, and minimize DFAs.
-
-## Features
-
-- **Create DFA/NFA**: Define states, alphabet, transitions, initial state, and final states via a user-friendly GUI.
-- **Visualize Automata**: Generate PDF diagrams using Graphviz with customizable layout and colors.
-- **Test Inputs**: Trace input strings through the automaton and display acceptance results.
-- **Convert DFA to NFA**: Transform a DFA into an equivalent NFA.
-- **Minimize DFA**: Reduce a DFA to its minimal form using the partition refinement algorithm.
-- **Input Validation**: Robust error checking for states, transitions, and input strings.
-- **Customizable UI**: Adjust diagram layout direction, state colors, and transition colors.
-
-## Prerequisites
-
-- **Python 3.6+**
-- **Dependencies**:
-  - `automata-lib`: For DFA/NFA logic.
-  - `graphviz`: For rendering automaton diagrams.
-  - `tkinter`: For the GUI (usually included with Python).
-- **Graphviz**: The Graphviz software must be installed on your system (not just the Python package).
-
-## Installation
-
-1. **Clone the Repository**:
-   
-   git clone https://github.com/your-username/automaton-visualizer.git
-   cd automaton-visualizer
-pip install automata-lib graphviz
-python automaton_visualizer.py
 
 # Automaton Visualizer
    A Python-based GUI application for creating, visualizing, and analyzing Deterministic Finite Automata (DFA) and Nondeterministic Finite Automata (NFA). Built with Tkinter, automata-lib, and Graphviz, this tool allows users to design automata, generate visual diagrams, test input strings, convert DFAs to NFAs, and minimize DFAs.
@@ -120,4 +90,4 @@ Invalid Inputs: Check error messages in the GUI for guidance on fixing input for
 Contributing
    Contributions are welcome! Please submit a pull request or open an issue on GitHub.
 
-Aleeza Aslam
+**Aleeza Aslam**
