@@ -1,0 +1,19 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore the AutomatonDiagrams folder
+AutomatonDiagrams/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore specific Python file
+abc.py
+
+# Ignore environment files (if applicable)
+.env
+
+# Ignore OS-specific files
+.DS_Store  # Mac
+Thumbs.db  # Windows
